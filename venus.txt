@@ -1,6 +1,5 @@
 
-Mars is a red planet but inhospitable!
+Mars is a green planet but inhospitable!
 second_modification
 third
-4th
 
